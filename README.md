@@ -14,7 +14,7 @@ repositorio acerca de de los separadores
   ## EJEMPLO
   Existen tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetasExisten tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetasExisten tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetas
 
- <p align="rigth"> 
+ <p align="right"> 
   ## EJEMPLO
   Existen tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetasExisten tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetasExisten tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetasExisten tres tipos básicos de GitHub Pages sitios: de proyecto, de usuario y de la organización. Los sitios de proyecto están conectados coon un proyecto específico alojado en GitHub, como una biblioteca JavaScript o una colección de recetaseste texto estara justifciado utilizabdo la propiedaD DE alineacion </p>
   
@@ -43,9 +43,9 @@ para agegar diversos estilos y resaltar tu texto
    se debe usar triple* (asterisco)
     texto texto texto texto ***texto en negrita  y cursiva*** texto texto
      
-    #### SUBRAYADO (UNDERLINE)
-    Nos servimos del subrayado para destacar las ideas más importantes del texto o del tema a estudiar: Seleccionar lo fundamental tratando de localizar las ideas y aspectos más importantes y ver su encadenamiento lógico. 
-    Jerarquizar las ideas ya que no todas tienen la misma importancia <ins>este es un texto subrayado</ins>
+ #### SUBRAYADO (UNDERLINE)
+ Nos servimos del subrayado para destacar las ideas más importantes del texto o del tema a estudiar: Seleccionar lo fundamental tratando de localizar las ideas y aspectos más importantes y ver su encadenamiento lógico. 
+ Jerarquizar las ideas ya que no todas tienen la misma importancia <ins>este es un texto subrayado</ins>
    
 
     
