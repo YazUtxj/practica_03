@@ -42,7 +42,7 @@ para agegar diversos estilos y resaltar tu texto
    DE igual manera podemos unir ambos estilos **negrita** y *cursiva* para resaltar  los textos 
    se debe usar triple* (asterisco)
     texto texto texto texto ***texto en negrita  y cursiva*** texto texto
-     ####  SUBRAYADO (UNDERLINE)
+  ####  SUBRAYADO (UNDERLINE)
     Nos servimos del subrayado para destacar las ideas más importantes del texto o del tema a estudiar: Seleccionar lo fundamental tratando de localizar las ideas y aspectos más importantes y ver su encadenamiento lógico. 
     Jerarquizar las ideas ya que no todas tienen la misma importancia
     PARA ESO UTILIZAREMOS  EL TAG <ins> y cerrrado con </ins>
