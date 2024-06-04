@@ -45,7 +45,7 @@ para agegar diversos estilos y resaltar tu texto
      
     #### SUBRAYADO (UNDERLINE)
     Nos servimos del subrayado para destacar las ideas más importantes del texto o del tema a estudiar: Seleccionar lo fundamental tratando de localizar las ideas y aspectos más importantes y ver su encadenamiento lógico. 
-    Jerarquizar las ideas ya que no todas tienen la misma importancia <ins>este es un texto subrayado </ins>
+    Jerarquizar las ideas ya que no todas tienen la misma importancia <ins>este es un texto subrayado</ins>
    
 
     
