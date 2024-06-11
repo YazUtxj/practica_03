@@ -93,9 +93,9 @@ para agegar diversos estilos y resaltar tu texto
 
      
  **ejemplo 2 (LISTAS DESORDENADAS)**
- 3.Tercero
- 7.Septimo
- 8.Octavo
+  + Tercero
+  + Septimo
+ + Octavo
 
 
  
@@ -115,10 +115,63 @@ repositorio o fuera de el. Puede crear un vínculo en línea escribiendo su text
   [230447@utxicotepec.edu.mx](https://www.gmail.com/)
 
   [https//www.utxicotepec.edu.mx](https://www.gmail.com/)
-
-  
  
+  
+ ### 8. Tablas (Table)
+ si la documentacioin lo requiere podemos presentar informacion en formato de tablas con filas  y columnas 
+ ,para maquetarlas podemos utilizar el caracter /| para delimitar  las columnas y - para  delimnitar las filas
+
+ **ejemplo**
+| Encabezado 1 | Encabezado2 |Encabezado3 |Encabezado4|
+|--------------|-------------|------------|-----------|
+| fila 1 celda 1   |fila 1 celda 2    | fila 1 celda 3|fila 1 celda 4|
+| fila 2 celda 1   |fila 2 celda 2    | fila 2 celda 3|fila 2 celda 4|
+| fila 3 celda 1   |fila 3 celda 2    | fila 3 celda 3|fila 3 celda 4|
+
+en caso de necesitar la fusion de celdas en columns usaremos la propiedad *col.spon* del tag  <td> y  
+en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom* 
+
+**ejemplo**
+| Encabezado 1 | Encabezado2 |Encabezado3 |Encabezado4|
+|--------------|-------------|------------|-----------|
+| fila 1 celda 1   |fila 1 celda 2    | fila 1 celda 3|fila 1 celda 4|
+| fila 2 celda 1  <td colspan=2> fila 2 celda 2    | fila 2 celda 3|
+| fila 3 celda 1   |fila 3 celda 2    | fila 3 celda 3|fila 3 celda 4|
+|    |fila 3 celda 2    | fila 3 celda 3|fila 3 celda 4|
+|                |fila 3 celda 2    | fila 3 celda 3|fila 3 celda 4|
+| fila 3 celda 1   |fila 3 celda 2    | fila 3 celda 3|fila 3 celda 4|
+ 
+ 
+ dado que  en ejemplo pasado  usando solo markdown  no se puede realizar la funcion de filas  debemos
+ utilizar el estandar de html ,usando los tags : <TH> para los encabezados , <tr> para las filas y <td>
+ para los celdas y en ellos utilizar la propiedad de *colspan* y *rowspan*
+
+
+ **ejemplo**
+<table>
+ <th>
+  <td>encabezado 1</td>
+ <td>encabezado 1</td> 
+ <td>encabezado 1</td>
+ <td>encabezado 1</td>
+</th>
+ <tr>
+  <td>fila 1 celda 1</td>
+    <td>fila 1 celda 2</td>
+      <td>fila 1 celda 3</td>
+  <td>fila 1 celda 4</td>
+ </tr>
+ <tr>
+  <td>fila 2 celda 1</td>
+    <td coldpan=3>fila 2 celda 2</td>
+ </tr>
+  <tr>
+  <td rowspan=3 >fila 3 celda 1</td>
    
+ </tr>
+ 
+</table>
+
  
    
 
