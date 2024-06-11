@@ -73,12 +73,37 @@ para agegar diversos estilos y resaltar tu texto
 > - Instalar el Sistema Gestor de BD
 > - Descargaremos el archivo de resplado de la base de datos
 > - Restauramos la base de datoas  usando el comando de datos"mysql"
-> - 
+ 
   C/Program files/MYSQL /MYSQL /My sql Server
+ ### 6.Listas ordenadas y listas desorndenadas
+ si en nuestra documentacion necesitamos incluir informacion en modo lista ,un elemento ntras otro
+ podemos hacerlo utilizando los numreros con un punto decimal si las desemaos ordenandas o un guion medio - si solo querempos viñetas
 
+ **ejemplo**
 
+  para crear tu primer repositorio en github:
+ 1. Contar con cuenta en githun
+ 2. Dar click en el boton "nuevo repositorio"
+ 3. Asignarle un nombre a tu repositorio ,por ejemplo "pracrtica-3a"
+ 4. Asignarle un nivel de privacidad
+   - **publico** si quieres que este disponible para todos los usuarios
+   - **privado** si deseas que solo  a quien decidas para colaborar y poder entrar
+ 7. efinir si incluye un archivo de descripcion llamado . "readme.md"
+   8.  Guardar los cambios
 
  
+### 7.Ligas (supervinculos)
+klas ligas son utilizadas para vincular elementos o referencias del proyecto dentro dekl mismo
+repositorio o fuera de el. Puede crear un vínculo en línea escribiendo su texto entre corchetes [ ] y escribiendo la URL entre paréntesis ( ). 
+ 
+
+ **ejemplo**
+ Mi buscador favorito es  [Google](https://www.google.com/)
+
+
+ pero si deseseamos ponrer solo las ligas directas  o un correo electronico podemos utilizar los simbolos de < >
+ documentacio0n creada por
+ **Yazmin Gutierrez Hernandez**
  
    
 
