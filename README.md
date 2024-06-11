@@ -46,6 +46,40 @@ para agegar diversos estilos y resaltar tu texto
  #### SUBRAYADO (UNDERLINE)
  Nos servimos del subrayado para destacar las ideas más importantes del texto o del tema a estudiar: Seleccionar lo fundamental tratando de localizar las ideas y aspectos más importantes y ver su encadenamiento lógico. 
  Jerarquizar las ideas ya que no todas tienen la misma importancia <ins>este es un texto subrayado</ins>
+ ### 5. Cuadros para codigo  o reseñas (BLOCKQUOTES)
+
+ Estos elementos so n utilizados para resaltar instrucciones especificas para la instalacion ,configuracion y/o inicializacion o mostrar secciones de codigo fuente ,Se maqueta iniciando  el texto 
+ cobn un simbolo mayor que(/>)
+ **EJEMPLO**
+ Para listar las carpetas y comandos y archivos eb desde una terminal de sistema operativo windos debemos  ingresar el comando 
+ > C:/dir
+>
+>
+  Despues oprimimos la tecla "Enter".
+  
+  Tambien podemos ingresart textos multilinea
+  
+  **EJEMPLO**
+
+  >Aqui se ingresan un conjunto de instrucciones para explicar al usuario como instalar el softare  que hemos diseñado
+>
+
+*y si deseamos incluir viñetas para enlistar pasos podemos utilizr el caracter - dentro del texto a documentar
+
+**ejemplo**
+**Pasos para instalar la BASE DE DATOS**
+
+ > - Descar mysql server del sitio oficial
+> - Instalar el Sistema Gestor de BD
+> - Descargaremos el archivo de resplado de la base de datos
+> - Restauramos la base de datoas  usando el comando de datos"mysql"
+> - 
+  C/Program files/MYSQL /MYSQL /My sql Server
+
+
+
+ 
+ 
    
 
     
