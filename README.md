@@ -90,6 +90,11 @@ para agegar diversos estilos y resaltar tu texto
    - **privado** si deseas que solo  a quien decidas para colaborar y poder entrar
  7. efinir si incluye un archivo de descripcion llamado . "readme.md"
    8.  Guardar los cambios
+ **ejemplo 2 (LISTAS DESORDENADAS)**
+3.Tercero
+7.Septimo
+8.Octavo
+
 
  
 ### 7.Ligas (supervinculos)
