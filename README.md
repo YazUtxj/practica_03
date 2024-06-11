@@ -102,8 +102,16 @@ repositorio o fuera de el. Puede crear un vínculo en línea escribiendo su text
 
 
  pero si deseseamos ponrer solo las ligas directas  o un correo electronico podemos utilizar los simbolos de < >
- documentacio0n creada por
- **Yazmin Gutierrez Hernandez**
+ documentacio0n creada por **Yazmin Gutierrez Hernandez**
+
+ 
+  [230447@utxicotepec.edu.mx](https://www.gmail.com/)
+
+  [https//www.utxicotepec.edu.mx](https://www.gmail.com/)
+
+  
+ 
+   
  
    
 
