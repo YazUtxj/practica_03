@@ -178,11 +178,11 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
   **ejemplo**
 
   
-![FOTO DEL SOFTWARE O PRODUCTO](empresa.pnj.jpeg)
+![Logo de la compania ](empresa.pnj.jpeg)   ![Logo del producto](  servicio.pnj.jpeg) 
 
 
 
-
+ 
     
   
   
