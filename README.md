@@ -166,14 +166,15 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
     <td coldpan=3>fila 2 celda 2</td>
  </tr>
   <tr>
-  <td rowspan=3 >fila 3 celda 1</td>
-   
- </tr>
- 
+  <td rowspan=3 >fila 3 celda 1</td> 
+ </tr> 
 </table>
-
- 
-   
+  
+  ### 9.Imagenes Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. 
+  El texto alternativo es un texto corto equivalente a la información de la imagen.
+  Luego, escribe el vínculo de la imagen entre paréntesis ().
+  
+  **ejemplo**
 
     
   
