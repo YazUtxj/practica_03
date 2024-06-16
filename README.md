@@ -170,7 +170,8 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
  </tr> 
 </table>
   
-  ### 9.Imagenes Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. 
+  ### 9.Imagenes 
+  Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. 
   El texto alternativo es un texto corto equivalente a la información de la imagen.
   Luego, escribe el vínculo de la imagen entre paréntesis ().
   
