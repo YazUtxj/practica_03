@@ -176,6 +176,7 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
   Luego, escribe el vínculo de la imagen entre paréntesis ().
   
   **ejemplo**
+![FOTO DEL SOFTWARE O PRODUCTO]()
 
     
   
