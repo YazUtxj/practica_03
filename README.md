@@ -181,7 +181,11 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
 ![Logo de la compania ](empresa.pnj.jpeg)   ![Logo del producto](  servicio.pnj.jpeg) 
 
 
+La primera foto es sobre el logo de nuestra empresa es decir 
+nosotros .
 
+Mientras que la segunda representa nuestro logo del software que estamos desarrollando
+el cual es un gestor de fugas y reportes de agua .
  
     
   
