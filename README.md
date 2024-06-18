@@ -148,32 +148,34 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
 
 
  **ejemplo**
+
+ 
 <table>
- <th>
-  <td>encabezado 1</td>
- <td>encabezado 1</td> 
- <td>encabezado 1</td>
- <td>encabezado 1</td>
-</th>
  <tr>
-       <td>fila 1 celda 1</td>
+    <td>encabezado 1</td>
+    <td>encabezado 2</td> 
+    <td>encabezado 3</td>
+    <td>encabezado 4</td>
+ </tr>
+ <tr>
+      <td>fila 1 celda 1</td>
       <td>fila 1 celda 2</td>
       <td>fila 1 celda 3</td>
       <td>fila 1 celda 4</td>
  </tr>
  <tr>
   <td>fila 2 celda 1</td>
-    <td coldpan=3 align="center">fila 2 celda 2</td>
+     <td coldpan=3 align="center">fila 2 celda 2</td>
  </tr>
   <tr>
   <td rowspan=3 >fila 3 celda 1</td> 
-    <td>fila 3 celda 1</td>
-      <td>fila 3 celda 2</td>
-    <td>fila 3 celda 3</td>
-      <td>fila 3 celda 4</td>
+       <td>fila 3 celda 1</td>
+       <td>fila 3 celda 2</td>
+       <td>fila 3 celda 3</td>
+       <td>fila 3 celda 4</td>
  </tr> 
-  <tr>
-       <td>fila 4 celda 1</td>
+ <tr>
+      <td>fila 4 celda 1</td>
       <td>fila 4 celda 2</td>
       <td>fila 4 celda 3</td>
       <td>fila 4 celda 4</td>
@@ -184,7 +186,12 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
       <td>fila 5 celda 3</td>
       <td>fila 5 celda 4</td>
  </tr>
-
+ <tr>
+      <td>fila 6 celda 1</td>
+      <td>fila 6 celda 2</td>
+      <td>fila 6 celda 3</td>
+      <td>fila 6 celda 4</td>
+ </tr>
 </table>
   
   ### 9.Imagenes 
