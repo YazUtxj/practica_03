@@ -165,26 +165,27 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
  </tr>
  <tr>
   <td>fila 2 celda 1</td>
-     <td coldpan=3 align="center">fila 2 celda 2</td>
+     <td colspan=3 align="center">fila 2 celda 2</td>
+  
  </tr>
   <tr>
   <td rowspan=3 >fila 3 celda 1</td> 
        <td>fila 3 celda 1</td>
        <td>fila 3 celda 2</td>
        <td>fila 3 celda 3</td>
-       <td>fila 3 celda 4</td>
+       
  </tr> 
  <tr>
       <td>fila 4 celda 1</td>
       <td>fila 4 celda 2</td>
       <td>fila 4 celda 3</td>
-      <td>fila 4 celda 4</td>
+  
  </tr>
   <tr>
        <td>fila 5celda 1</td>
       <td>fila 5 celda 2</td>
       <td>fila 5 celda 3</td>
-      <td>fila 5 celda 4</td>
+   
  </tr>
  <tr>
       <td>fila 6 celda 1</td>
@@ -212,7 +213,9 @@ Mientras que la segunda representa nuestro logo del software que estamos desarro
 el cual es un gestor de fugas y reportes de agua .
  
     
-  
+### IMPLEMENTACION DE LOS APARTADOS 5,6, Y 7
+
+
   
 
     
