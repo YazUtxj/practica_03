@@ -169,7 +169,8 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
   <td rowspan=3 >fila 3 celda 1</td> 
     <td>fila 3 celda 1</td>
       <td>fila 3 celda 2</td>
-    <td>fila 3 celda 1</td>
+    <td>fila 3 celda 3</td>
+      <td>fila 3 celda 4</td>
  </tr> 
   <tr>
        <td>fila 4 celda 1</td>
