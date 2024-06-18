@@ -171,7 +171,19 @@ en el caso de necesitar la dusion de filas utilizaremos la propiedad *rowspom*
       <td>fila 3 celda 2</td>
     <td>fila 3 celda 1</td>
  </tr> 
- 
+  <tr>
+       <td>fila 4 celda 1</td>
+      <td>fila 4 celda 2</td>
+      <td>fila 4 celda 3</td>
+      <td>fila 4 celda 4</td>
+ </tr>
+  <tr>
+       <td>fila 5celda 1</td>
+      <td>fila 5 celda 2</td>
+      <td>fila 5 celda 3</td>
+      <td>fila 5 celda 4</td>
+ </tr>
+
 </table>
   
   ### 9.Imagenes 
