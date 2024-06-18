@@ -213,7 +213,6 @@ Mientras que la segunda representa nuestro logo del software que estamos desarro
 el cual es un gestor de fugas y reportes de agua .
  
     
-### IMPLEMENTACION DE LOS APARTADOS 5,6, Y 7
 
 
   
